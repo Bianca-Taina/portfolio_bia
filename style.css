@@ -3,15 +3,24 @@
 }
 
 body{
-    background-color: aquamarine;
+    background-color: rgb(255, 127, 217);
     font-size: 16px;
 }
 
 header{
-    background-color: aqua;
+    background-color: rgb(241, 22, 241);
     height: 4em;
 }
 
-header{
-    
+header h1{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border-radius: 18px;
+}
+
+main{
+    background-color: rgb(245, 21, 125);
 }
