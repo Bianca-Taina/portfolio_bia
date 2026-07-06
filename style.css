@@ -5,10 +5,12 @@
 body{
     background-color: rgb(255, 127, 217);
     font-size: 16px;
+    color: darkorchid;
+    font-family: sans-serif;
 }
 
 header{
-    background-color: rgb(241, 22, 241);
+    background-color: rgb(240, 110, 240);
     height: 4em;
 }
 
