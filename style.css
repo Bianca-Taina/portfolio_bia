@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: rgb(255, 127, 217);
+    background-color: #D14EFF;
     font-size: 16px;
     color: darkorchid;
     font-family: sans-serif;
@@ -24,5 +24,5 @@ img{
 }
 
 main{
-    background-color: rgb(245, 21, 125);
+    background-color: rgb(223, 98, 156);
 }
