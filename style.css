@@ -29,4 +29,5 @@ img{
 
 main{
     background-color: rgb(248, 117, 178);
+    flex: 1;
 }
