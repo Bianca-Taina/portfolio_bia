@@ -36,4 +36,6 @@ main{
 select{
     margin: 10%;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
